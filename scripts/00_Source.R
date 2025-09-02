@@ -10,7 +10,7 @@
 
 # Clear environment
 rm(list = ls())
-gc()
+gc()  
 
 # Packages
 # devtools::install_github("ropensci/rdhs")
